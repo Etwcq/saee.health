@@ -1,6 +1,14 @@
 <versions>
   <version>
     <rev>
+      1
+    </rev>
+    <description>
+      テスト
+    </description>
+  </version>
+  <version>
+    <rev>
       100
     </rev>
     <description>
