@@ -12,6 +12,17 @@
   </version>
   <version>
     <rev>
+      10
+    </rev>
+    <date>
+      2023.11.17
+    </date>
+    <description>
+      とりあえず動く
+    </description>
+  </version>
+  <version>
+    <rev>
       100
     </rev>
     <date>
