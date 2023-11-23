@@ -21,4 +21,15 @@
       とりあえず動く, ae3.nagoyaの2023年後期英語中級/英語コミュに対応
     </description>
   </version>
+  <version>
+    <rev>
+      20
+    </rev>
+    <date>
+      2023.11.23
+    </date>
+    <description>
+      フローティングメニューを追加, 受講時間延長機能を追加, 文章選択式問題に対応, 細やかなバグ修正
+    </description>
+  </version>
 </versions>
