@@ -32,4 +32,15 @@
       フローティングメニューを追加, 受講時間延長機能を追加, 文章選択式問題に対応, 細やかなバグ修正
     </description>
   </version>
+  <version>
+    <rev>
+      30
+    </rev>
+    <date>
+      2023.11.29
+    </date>
+    <description>
+      一部仕様変更, MatchingQuestionに対応
+    </description>
+  </version>
 </versions>
