@@ -43,4 +43,15 @@
       一部仕様変更, MatchingQuestionに対応
     </description>
   </version>
+  <version>
+    <rev>
+      31
+    </rev>
+    <date>
+      2023.11.30
+    </date>
+    <description>
+      解答取得の一部仕様変更
+    </description>
+  </version>
 </versions>
