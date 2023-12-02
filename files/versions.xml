@@ -54,4 +54,15 @@
       解答取得の一部仕様変更
     </description>
   </version>
+  <version>
+    <rev>
+      32
+    </rev>
+    <date>
+      2023.12.02
+    </date>
+    <description>
+      ReadingScanningCombinationQuestion対応, 更新メッセージの表示
+    </description>
+  </version>
 </versions>
