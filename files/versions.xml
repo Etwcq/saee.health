@@ -65,4 +65,15 @@
       ReadingScanningCombinationQuestion対応, 更新メッセージの表示
     </description>
   </version>
+  <version>
+    <rev>
+      33
+    </rev>
+    <date>
+      2023.12.03
+    </date>
+    <description>
+      一部のPopUpQuestionで解答が取得できないバグを修正
+    </description>
+  </version>
 </versions>
