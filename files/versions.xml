@@ -76,4 +76,15 @@
       一部のPopUpQuestionで解答が取得できないバグを修正
     </description>
   </version>
+  <version>
+    <rev>
+      40
+    </rev>
+    <date>
+      2023.12.05
+    </date>
+    <description>
+      新機能:自動提出, 新機能:放置によるタイムアウト防止, 自動解答における細やかなバグ修正
+    </description>
+  </version>
 </versions>
